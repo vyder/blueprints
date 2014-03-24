@@ -1,14 +1,1 @@
-= Blue. Print.
-
-== Getting started:
-1. `npm install`
-2. `rake (server|test|coverage)`
-3. Edit `packages.json`
-
-== Setup with:
-- Rakefile
-- Basic routes
-- Prototype model
-- Tests: spec, nyan, istanbul (coverage)
-- Set environment: production, test
-
+= Blue. Print. Three.
